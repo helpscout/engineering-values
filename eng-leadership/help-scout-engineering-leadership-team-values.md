@@ -1,4 +1,4 @@
-#Help Scout Engineering Leadership Team Values
+# Help Scout Engineering Leadership Team Values
 
 In addition to our commitment to building and encouraging a [1st team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) in engineering leadership, we strive to embody these values as we work together.
 
